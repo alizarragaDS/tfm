@@ -1,3 +1,5 @@
 # tfm
 
-this repository is just a container for our TFM and their instructions to setup your environment in order to execute the code.
+this repository is just a container for our TFM.
+
+#Notice in order to execute the code in our TFM please read the instrucciones.md file.
